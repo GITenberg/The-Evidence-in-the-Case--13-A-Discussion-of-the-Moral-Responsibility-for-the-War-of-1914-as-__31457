@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3290
     wikipedia: http://en.wikipedia.org/wiki/James_M._Beck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31457#The-Evidence-in-the-Case--13-A-Discussion-of-the-Moral-Responsibility-for-the-War-of-1914-as-_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-03-01'
 gutenberg_type: Text
