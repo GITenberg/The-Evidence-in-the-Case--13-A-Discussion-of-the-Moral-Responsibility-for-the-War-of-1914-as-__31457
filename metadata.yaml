@@ -1,0 +1,39 @@
+_repo: The-Evidence-in-the-Case--13-A-Discussion-of-the-Moral-Responsibility-for-the-War-of-1914-as-__31457
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Choate, Joseph Hodges
+    alias: Choate, Joseph H.
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '6479'
+    url: http://www.gutenberg.org/2009/agents/6479
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hodges_Choate
+covers:
+- cover_type: archival
+  image_path: 31457-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Beck, James M. (James Montgomery)
+    alias: Beck, James Montgomery
+    birthdate: 1861
+    deathdate: 1936
+    gutenberg_agent_id: '3290'
+    url: http://www.gutenberg.org/2009/agents/3290
+    wikipedia: http://en.wikipedia.org/wiki/James_M._Beck
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Causes'
+title: "The Evidence in the Case\r\nA Discussion of the Moral Responsibility for the\
+  \ War of 1914, as Disclosed by the Diplomatic Records of England, Germany, Russia"
+url: http://www.gutenberg.org/ebooks/31457
